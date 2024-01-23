@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>353_n2_in-out.txt</file>
+    </qresource>
+</RCC>
